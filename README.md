@@ -41,3 +41,13 @@ print(result)
 >> امکانات فنی پیاده سازی یک دستیار هوشمند بر پایه هوش مصنوعی
 
 ```
+
+## Plans
+
+You can contribute on this tasks:
+
+- [ ] Add App write to project
+- [ ] Fast api
+- [ ] Dockerize
+- [ ] Validate input data
+- [ ] Training GUI
